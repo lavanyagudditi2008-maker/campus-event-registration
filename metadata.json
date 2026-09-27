@@ -1,0 +1,6 @@
+{
+  "name": "Campus Event Registration System",
+  "description": "Discover, register, and participate in collegiate events, workshops, sports meets, and hackathons with seamless student and organizer dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
